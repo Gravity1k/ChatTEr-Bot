@@ -1,5 +1,5 @@
-# Final Capstone
-​
-This directory contains all of the starter projects for the final capstone.
-​
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.
+Chatterbot is a chatbot project designed using Vue.js and Java for the backend, with SQL for the database. The chatbot was created for use with a school curriculum website, allowing students to easily find information. Your task is to develop a chatbot that can provide helpful responses to user queries.
+
+The chatbot should greet the user and ask for their name before responding to their questions. It should have the ability to respond to certain keywords such as "quote" or "motivation" with a motivational quote, or "job search" with a link to the job search page. Users can also ask for "assistance" if they are unsure what to do, and "keywords" to see all the things the chatbot can help with.![ChatterBot1](https://github.com/Gravity1k/ChatTEr-Bot/assets/111000174/1048b3d8-66f2-40d3-b43f-3a08a43e430c)
+![ChatterBot2](https://github.com/Gravity1k/ChatTEr-Bot/assets/111000174/35f6952f-b084-4f6b-8216-06ed0c7d11de)
+![chatterBot3](https://github.com/Gravity1k/ChatTEr-Bot/assets/111000174/8d0ebd53-9847-442c-947b-f9af6e1a0c81)
